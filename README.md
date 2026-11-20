@@ -26,7 +26,7 @@ Splitting the sample at 2020 reveals the shift.
 
 ## Update through November 2026
 
-A second notebook, `Stock Bond Correlation (Updated to Today).ipynb`, extends the data to the latest trading day and tests 2025 onward, a period the original study never saw.
+A second notebook, `Stock Bond Correlation - updated to 11.20.2026.ipynb`, extends the data to the latest trading day and tests 2025 onward, a period the original study never saw.
 
 | | 2020–Nov 2026 | 2025–Nov 2026 (out of sample) |
 |---|---|---|
